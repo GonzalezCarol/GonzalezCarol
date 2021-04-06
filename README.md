@@ -7,3 +7,8 @@
     </tr>   
 </table>
 </center>  
+
+Hello my name is Carolina Gonzalez and i am from Valinhos 🇧🇷, but i was born in Buenos Aires 🇦🇷.  I've been working as Front-End Developer Trainee since 2020 at Daitan Group. Actually I have been study CSS3 and ReactJS but i am always open to face new challenges. 😄
+
+Wold you like to find me?
+https://www.linkedin.com/in/gonzalez-carolina/ | ✉️ carolina.gonzalez.alvarenga@gmail.com
