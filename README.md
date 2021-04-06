@@ -3,7 +3,7 @@
 <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzalezCarol&hide=html&layout=compact&theme=nightowl" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=GonzalezCarol&theme=nightowl"/></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=GonzalezCarol&theme=nightowl&count_private=true"/></td>
     </tr>   
 </table>
 </center>  
