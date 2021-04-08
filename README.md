@@ -17,5 +17,5 @@ Hello my name is Carolina Gonzalez and i am from Valinhos 🇧🇷, but i was bo
 
 Wold you like to find me? <br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gonzalez-carolina/)](https://www.linkedin.com/in/gonzalez-carolina/) <br>
-✉️ carolina.gonzalez.alvarenga@gmail.com
+✉️ carolina.gonzalez.alvarenga@gmail.com <br>
 ✏️ https://codepen.io/carol-gonzalez
