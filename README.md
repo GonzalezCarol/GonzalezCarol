@@ -13,9 +13,9 @@
 </table>
 </center>  
 
-Hello my name is Carolina Gonzalez and i am from Valinhos 🇧🇷, but i was born in Buenos Aires 🇦🇷.  I've been working as FullStack Developer inter since 2020 at Daitan Group 👩‍💻. Actually I have been study CSS3, ReactJS and Java Spring Boot but i am always open to face new challenges. 😄
+Hello my name is Carolina Gonzalez and i am from Valinhos 🇧🇷, but i was born in Buenos Aires 🇦🇷.  I've been working as FullStack Developer inter since 2020 👩‍💻. Actually I have been study CSS3, ReactJS and Java Spring Boot but i am always open to face new challenges. 😄
 
-👩‍🎓 10 semester of computer engineering <br>
+👩‍🎓 Computer Engineer <br>
 👩‍💻 Full Stack Developer <br>
 📚 Focused<br> <br>
 Wold you like to find me? <br>
