@@ -13,11 +13,11 @@
 </table>
 </center>  
 
-Hello my name is Carolina Gonzalez and i am from Valinhos 🇧🇷, but i was born in Buenos Aires 🇦🇷.  I've been working as FullStack Developer inter since 2020 👩‍💻. Actually I have been study CSS3, ReactJS and Java Spring Boot but i am always open to face new challenges. 😄
+Hello my name is Carolina Gonzalez and i am from Valinhos 🇧🇷, but i was born in Buenos Aires 🇦🇷.  I've been working as FullStack Developer since 2020 and now i am Software Development SSr. Analyst at Mercado Livre Brasil 👩‍💻 . Actually I have been study CSS3, ReactJS and Java Spring Boot but i am always open to face new challenges. 😄
 
 👩‍🎓 Computer Engineer <br>
-👩‍💻 Full Stack Developer <br>
-📚 Focused<br> <br>
+👩‍💻 Software Development SSr. Analyst at Mercado Livre Brasil<br>
+📚 🚀 Focused<br> <br>
 Wold you like to find me? <br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gonzalez-carolina/)](https://www.linkedin.com/in/gonzalez-carolina/) <br>
 ✉️ carolina.gonzalez.alvarenga@gmail.com <br>
