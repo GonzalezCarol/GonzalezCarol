@@ -13,7 +13,7 @@
 </table>
 </center>  
 
-Hello my name is Carolina Gonzalez and i am from Campinas 🇧🇷, but i was born in Buenos Aires 🇦🇷.  I am Software Development SSr. Analyst at Mercado Livre Brasil 👩‍💻 . Actually I have been study CSS3, ReactJS and HTML but i am always open to face new challenges. 😄
+Hello my name is Carolina Gonzalez and i am from Campinas 🇧🇷, but i was born in Buenos Aires 🇦🇷.  I am Software Development SSr. Analyst at Mercado Livre Brasil 👩‍💻 . Actually I have been working with CSS3, ReactJS and HTML but i am always open to face new challenges. 😄
 
 👩‍🎓 Computer Engineer <br>
 👩‍💻 Software Development SSr. Analyst at Mercado Livre Brasil<br>
