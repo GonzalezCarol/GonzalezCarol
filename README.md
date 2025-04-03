@@ -1,6 +1,6 @@
 ## 👩‍💻 Carolina Gonzalez  
 
-Olá! Sou **Carolina Gonzalez**, **Frontend Software Engineer** no **Mercado Livre Brasil**. Atualmente, trabalho principalmente com **ReactJS, SSR, Microfrontend and Internal Libaries **, mas estou sempre aberta a novos desafios e aprendizados! 🚀  
+Olá! Sou **Carolina Gonzalez**, **Frontend Software Engineer** no **Mercado Livre Brasil**. Atualmente, trabalho principalmente com **ReactJS, SSR, Microfrontend and Internal Libaries**, mas estou sempre aberta a novos desafios e aprendizados! 🚀  
 
 ### 💡 Sobre mim  
 📍 Campinas 🇧🇷 | Nascida em Buenos Aires 🇦🇷  
