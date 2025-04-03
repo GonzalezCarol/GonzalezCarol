@@ -9,7 +9,7 @@ Olá! Sou **Carolina Gonzalez**, **Frontend Software Engineer** no **Mercado Liv
 📚 Apaixonada por tecnologia e inovação  
 
 ### 🛠️ Tech Stack  
-- **Frontend:**React, Microfronts, SSR, Webpack, SASS**
+- **Frontend:** React, Microfronts, SSR, Webpack, SASS
 - **Backend & Tools:** Node.js, Express, Git  
 - **Testing & Monitoring:** Testing Library, DataDog, New Relic, Grafana  
 - **Documentação:** Boas práticas e padrões para garantir código sustentável  
