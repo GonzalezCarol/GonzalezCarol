@@ -1,8 +1,3 @@
-
-<p align="center">
-    <img width="756" alt="Screen Shot 2021-04-06 at 14 55 41" src="https://user-images.githubusercontent.com/40405334/113756770-2c9d0880-96e8-11eb-8e38-51dd902288ab.png">
-</p>
-
 <center>
     
 <table>
